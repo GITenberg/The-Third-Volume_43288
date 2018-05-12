@@ -1,0 +1,32 @@
+_repo: The-Third-Volume_43288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hume, Fergus
+    aliases:
+    - Hume, Fergus W. (Ferguson Wright)
+    - Hume, Ferguson Wright
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '1057'
+    url: http://www.gutenberg.org/2009/agents/1057
+    wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
+description: ''
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: The Third Volume
+url: http://www.gutenberg.org/ebooks/43288
